@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo
+
+  docker:
+    compose:
+      enabled: false
+
+  ai:
+    mcp:
+      server:
+        protocol: STREAMABLE
